@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2d91526-8a3a-4934-b764-974f69b75589" name="git@github.com:Laynexx-ns/reshis2week.git" url="http://git@github.com:Laynexx-ns/reshis2week.git">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
